@@ -7,8 +7,7 @@ A Node.js & Express backend for a video streaming platform with user subscriptio
 ## Features
 
 - User registration & login with JWT authentication  
-- Subscription management with referral rewards  
-- Video upload, view tracking  
+- Subscription management with referral rewards    
 - Protected routes with middleware  
 - Logout with cookie clearing  
 - Error handling & validation
@@ -42,3 +41,5 @@ src/
 │ └── video.routes.js
 app.js
 server.js 
+
+
